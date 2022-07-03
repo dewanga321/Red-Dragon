@@ -32,14 +32,14 @@ global.botname = ' ☬RED༒DRAGON' //Bot Name
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
 
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'Sri Lanka' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
+global.packname = '☬deww༒bot࿐' //Bot Pacage Name
 global.author = '😎dewanga❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
-global.footer = 'mama online inne ubala wade karaganna hode kastiya bye bye' //In list menu
+global.footer = 'තාම මැරිලා නෑ මැරෙනකන් වැඩ ගනින් bn අවුලක් නෑ bye bye ✌️✌️✌️✌️✌️✌️' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/true
 
 
